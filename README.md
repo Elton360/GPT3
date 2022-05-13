@@ -32,7 +32,7 @@ npm install
 
 ```
 
-It is necessary to have the API key, which is a file that should be plced in the src folder.
+It is necessary to have the API key, which is a file that should be placed in the main folder (not the src folder).
 This key cannot be found in the repository for security reason, Openai will update it if it is found in an online repository.
 
 The app can now be started on your local machine by running:
